@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👾 dawodev | dawonatom
 
-<!--
-**dawonatom/dawonatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Dawon, aunque algunos me conocen como Pixel.  
+Me gusta romper cosas (con fines educativos, claro) y luego entender cómo funcionan.  
+Actualmente me enfoco en proyectos con Python, me encanta explorar el comportamiento del software desde adentro.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 🎮 Me puedes encontrar también en [GameJolt](https://gamejolt.com/@dabodev)
+- 🐍 Explorando Python desde lo básico hasta lo más retorcido
+- 🧪 Me gusta experimentar, aprender y compartir lo que descubro
+
+---
+
+## 📦 Repositorios destacados
+
+- [`pythonPOO`](https://github.com/dawonatom/pythonPOO): Ejercicios prácticos de Programación Orientada a Objetos en Python
+- [`swot`](https://github.com/dawonatom/swot): Fork del proyecto de JetBrains para identificar dominios académicos
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawonatom&show_icons=true&theme=radical)
+
