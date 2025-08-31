@@ -11,8 +11,11 @@ Actualmente me enfoco en proyectos con Python, me encanta explorar el comportami
 - 🐍 Explorando Python desde lo básico hasta lo más retorcido
 - 🧪 Me gusta experimentar, aprender y compartir lo que descubro
 
-
+<!--
 ## 📦 Repositorios destacados
 
 - [`pythonPOO`](https://github.com/dawonatom/pythonPOO): Ejercicios prácticos de Programación Orientada a Objetos en Python
 - [`swot`](https://github.com/dawonatom/swot): Fork del proyecto de JetBrains para identificar dominios académicos
+
+-->
+
