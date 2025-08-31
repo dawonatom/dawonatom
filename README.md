@@ -20,5 +20,9 @@ Actualmente me enfoco en proyectos con Python, me encanta explorar el comportami
 - [`swot`](https://github.com/dawonatom/swot): Fork del proyecto de JetBrains para identificar dominios académicos
 
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawonatom&show_icons=true&theme=radical)
+
+</div>
 
